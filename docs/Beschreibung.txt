@@ -1,0 +1,6 @@
+Smartspend Austria ist eine universelle Vergleichsplattform, die Echtzeit-Preise für Benzin, Lebensmittel, 
+Drogerieartikel und Elektronik mit globalen Reiseangeboten in einer App bündelt. Durch die Verknüpfung von 
+Standortdaten und individuellen Einkaufslisten berechnet das Tool die effizienteste Route zu den günstigsten 
+lokalen Händlern und warnt gleichzeitig vor Preisänderungen bei Flügen oder Hotels. Damit bietet die App eine 
+lückenlose Lösung, um sowohl die täglichen Haushaltsausgaben als auch größere Investitionen und Urlaubsreisen 
+intelligent zu optimieren.
